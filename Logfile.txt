@@ -1,0 +1,333 @@
+Trial 0 Finished (1000000.0 total)
+Dominant Count 562084.0 (56%)
+Recessive Count 62440.0 (6%)
+Heterozygous Count 375476.0 (37%)
+Number of Dominant Alleles 1499644.0 (74%)
+Number of Recessive Alleles 500356.0 (25%)
+=========================
+Starting Trial 1 with p Percentage at 74.97220062255859
+Natural Selection Factor is 0.01
+Trial 1 Finished (1000000.0 total)
+Dominant Count 562054.0 (56%)
+Recessive Count 62502.0 (6%)
+Heterozygous Count 375444.0 (37%)
+Number of Dominant Alleles 1499552.0 (74%)
+Number of Recessive Alleles 500448.0 (25%)
+=========================
+Starting Trial 2 with p Percentage at 74.96760009765624
+Natural Selection Factor is 0.01
+Trial 2 Finished (1000000.0 total)
+Dominant Count 561883.0 (56%)
+Recessive Count 62707.0 (6%)
+Heterozygous Count 375410.0 (37%)
+Number of Dominant Alleles 1499176.0 (74%)
+Number of Recessive Alleles 500824.0 (25%)
+=========================
+Starting Trial 3 with p Percentage at 74.94880126953124
+Natural Selection Factor is 0.01
+Trial 3 Finished (1000000.0 total)
+Dominant Count 562415.0 (56%)
+Recessive Count 62828.0 (6%)
+Heterozygous Count 374757.0 (37%)
+Number of Dominant Alleles 1499587.0 (74%)
+Number of Recessive Alleles 500413.0 (25%)
+=========================
+Starting Trial 4 with p Percentage at 74.96935485839843
+Natural Selection Factor is 0.01
+Trial 4 Finished (1000000.0 total)
+Dominant Count 561866.0 (56%)
+Recessive Count 62624.0 (6%)
+Heterozygous Count 375510.0 (37%)
+Number of Dominant Alleles 1499242.0 (74%)
+Number of Recessive Alleles 500758.0 (25%)
+=========================
+Starting Trial 5 with p Percentage at 74.95209716796874
+Natural Selection Factor is 0.01
+Trial 5 Finished (1000000.0 total)
+Dominant Count 562166.0 (56%)
+Recessive Count 62655.0 (6%)
+Heterozygous Count 375179.0 (37%)
+Number of Dominant Alleles 1499511.0 (74%)
+Number of Recessive Alleles 500489.0 (25%)
+=========================
+Starting Trial 6 with p Percentage at 74.96554779052734
+Natural Selection Factor is 0.01
+Trial 6 Finished (1000000.0 total)
+Dominant Count 561824.0 (56%)
+Recessive Count 62729.0 (6%)
+Heterozygous Count 375447.0 (37%)
+Number of Dominant Alleles 1499095.0 (74%)
+Number of Recessive Alleles 500905.0 (25%)
+=========================
+Starting Trial 7 with p Percentage at 74.94475006103515
+Natural Selection Factor is 0.01
+Trial 7 Finished (1000000.0 total)
+Dominant Count 561605.0 (56%)
+Recessive Count 63078.0 (6%)
+Heterozygous Count 375317.0 (37%)
+Number of Dominant Alleles 1498527.0 (74%)
+Number of Recessive Alleles 501473.0 (25%)
+=========================
+Starting Trial 8 with p Percentage at 74.91635345458984
+Natural Selection Factor is 0.01
+Trial 8 Finished (1000000.0 total)
+Dominant Count 561377.0 (56%)
+Recessive Count 62445.0 (6%)
+Heterozygous Count 376178.0 (37%)
+Number of Dominant Alleles 1498932.0 (74%)
+Number of Recessive Alleles 501068.0 (25%)
+=========================
+Starting Trial 9 with p Percentage at 74.93660186767578
+Natural Selection Factor is 0.01
+Trial 9 Finished (1000000.0 total)
+Dominant Count 561798.0 (56%)
+Recessive Count 62740.0 (6%)
+Heterozygous Count 375462.0 (37%)
+Number of Dominant Alleles 1499058.0 (74%)
+Number of Recessive Alleles 500942.0 (25%)
+=========================
+Starting Trial 10 with p Percentage at 74.94290374755859
+Natural Selection Factor is 0.01
+Trial 10 Finished (1000000.0 total)
+Dominant Count 562349.0 (56%)
+Recessive Count 62361.0 (6%)
+Heterozygous Count 375290.0 (37%)
+Number of Dominant Alleles 1499988.0 (74%)
+Number of Recessive Alleles 500012.0 (25%)
+=========================
+Starting Trial 11 with p Percentage at 74.98939727783203
+Natural Selection Factor is 0.01
+Trial 11 Finished (1000000.0 total)
+Dominant Count 563122.0 (56%)
+Recessive Count 61980.0 (6%)
+Heterozygous Count 374898.0 (37%)
+Number of Dominant Alleles 1501142.0 (75%)
+Number of Recessive Alleles 498858.0 (24%)
+=========================
+Starting Trial 12 with p Percentage at 75.04709838867187
+Natural Selection Factor is 0.01
+Trial 12 Finished (1000000.0 total)
+Dominant Count 562414.0 (56%)
+Recessive Count 62497.0 (6%)
+Heterozygous Count 375089.0 (37%)
+Number of Dominant Alleles 1499917.0 (74%)
+Number of Recessive Alleles 500083.0 (25%)
+=========================
+Starting Trial 13 with p Percentage at 74.985849609375
+Natural Selection Factor is 0.01
+Trial 13 Finished (1000000.0 total)
+Dominant Count 561620.0 (56%)
+Recessive Count 62997.0 (6%)
+Heterozygous Count 375383.0 (37%)
+Number of Dominant Alleles 1498623.0 (74%)
+Number of Recessive Alleles 501377.0 (25%)
+=========================
+Starting Trial 14 with p Percentage at 74.92115234375
+Natural Selection Factor is 0.01
+Trial 14 Finished (1000000.0 total)
+Dominant Count 561676.0 (56%)
+Recessive Count 63249.0 (6%)
+Heterozygous Count 375075.0 (37%)
+Number of Dominant Alleles 1498427.0 (74%)
+Number of Recessive Alleles 501573.0 (25%)
+=========================
+Starting Trial 15 with p Percentage at 74.91134857177734
+Natural Selection Factor is 0.01
+Trial 15 Finished (1000000.0 total)
+Dominant Count 560853.0 (56%)
+Recessive Count 63196.0 (6%)
+Heterozygous Count 375951.0 (37%)
+Number of Dominant Alleles 1497657.0 (74%)
+Number of Recessive Alleles 502343.0 (25%)
+=========================
+Starting Trial 16 with p Percentage at 74.87285064697265
+Natural Selection Factor is 0.01
+Trial 16 Finished (1000000.0 total)
+Dominant Count 561033.0 (56%)
+Recessive Count 62866.0 (6%)
+Heterozygous Count 376101.0 (37%)
+Number of Dominant Alleles 1498167.0 (74%)
+Number of Recessive Alleles 501833.0 (25%)
+=========================
+Starting Trial 17 with p Percentage at 74.89835571289062
+Natural Selection Factor is 0.01
+Trial 17 Finished (1000000.0 total)
+Dominant Count 561708.0 (56%)
+Recessive Count 62926.0 (6%)
+Heterozygous Count 375366.0 (37%)
+Number of Dominant Alleles 1498782.0 (74%)
+Number of Recessive Alleles 501218.0 (25%)
+=========================
+Starting Trial 18 with p Percentage at 74.92910217285156
+Natural Selection Factor is 0.01
+Trial 18 Finished (1000000.0 total)
+Dominant Count 562402.0 (56%)
+Recessive Count 62689.0 (6%)
+Heterozygous Count 374909.0 (37%)
+Number of Dominant Alleles 1499713.0 (74%)
+Number of Recessive Alleles 500287.0 (25%)
+=========================
+Starting Trial 19 with p Percentage at 74.97564910888671
+Natural Selection Factor is 0.01
+Trial 19 Finished (1000000.0 total)
+Dominant Count 561932.0 (56%)
+Recessive Count 62532.0 (6%)
+Heterozygous Count 375536.0 (37%)
+Number of Dominant Alleles 1499400.0 (74%)
+Number of Recessive Alleles 500600.0 (25%)
+=========================
+Starting Trial 20 with p Percentage at 74.96000122070312
+Natural Selection Factor is 0.01
+Trial 20 Finished (1000000.0 total)
+Dominant Count 562654.0 (56%)
+Recessive Count 63183.0 (6%)
+Heterozygous Count 374163.0 (37%)
+Number of Dominant Alleles 1499471.0 (74%)
+Number of Recessive Alleles 500529.0 (25%)
+=========================
+Starting Trial 21 with p Percentage at 74.96354888916015
+Natural Selection Factor is 0.01
+Trial 21 Finished (1000000.0 total)
+Dominant Count 562006.0 (56%)
+Recessive Count 62600.0 (6%)
+Heterozygous Count 375394.0 (37%)
+Number of Dominant Alleles 1499406.0 (74%)
+Number of Recessive Alleles 500594.0 (25%)
+=========================
+Starting Trial 22 with p Percentage at 74.96029876708984
+Natural Selection Factor is 0.01
+Trial 22 Finished (1000000.0 total)
+Dominant Count 561742.0 (56%)
+Recessive Count 63002.0 (6%)
+Heterozygous Count 375256.0 (37%)
+Number of Dominant Alleles 1498740.0 (74%)
+Number of Recessive Alleles 501260.0 (25%)
+=========================
+Starting Trial 23 with p Percentage at 74.92699645996093
+Natural Selection Factor is 0.01
+Trial 23 Finished (1000000.0 total)
+Dominant Count 560954.0 (56%)
+Recessive Count 62534.0 (6%)
+Heterozygous Count 376512.0 (37%)
+Number of Dominant Alleles 1498420.0 (74%)
+Number of Recessive Alleles 501580.0 (25%)
+=========================
+Starting Trial 24 with p Percentage at 74.9109976196289
+Natural Selection Factor is 0.01
+Trial 24 Finished (1000000.0 total)
+Dominant Count 559609.0 (55%)
+Recessive Count 63580.0 (6%)
+Heterozygous Count 376811.0 (37%)
+Number of Dominant Alleles 1496029.0 (74%)
+Number of Recessive Alleles 503971.0 (25%)
+=========================
+Starting Trial 25 with p Percentage at 74.79145263671874
+Natural Selection Factor is 0.01
+Trial 25 Finished (1000000.0 total)
+Dominant Count 560104.0 (56%)
+Recessive Count 63542.0 (6%)
+Heterozygous Count 376354.0 (37%)
+Number of Dominant Alleles 1496562.0 (74%)
+Number of Recessive Alleles 503438.0 (25%)
+=========================
+Starting Trial 26 with p Percentage at 74.8181021118164
+Natural Selection Factor is 0.01
+Trial 26 Finished (1000000.0 total)
+Dominant Count 559329.0 (55%)
+Recessive Count 63850.0 (6%)
+Heterozygous Count 376821.0 (37%)
+Number of Dominant Alleles 1495479.0 (74%)
+Number of Recessive Alleles 504521.0 (25%)
+=========================
+Starting Trial 27 with p Percentage at 74.76394866943359
+Natural Selection Factor is 0.01
+Trial 27 Finished (1000000.0 total)
+Dominant Count 558852.0 (55%)
+Recessive Count 63535.0 (6%)
+Heterozygous Count 377613.0 (37%)
+Number of Dominant Alleles 1495317.0 (74%)
+Number of Recessive Alleles 504683.0 (25%)
+=========================
+Starting Trial 28 with p Percentage at 74.7558462524414
+Natural Selection Factor is 0.01
+Trial 28 Finished (1000000.0 total)
+Dominant Count 559831.0 (55%)
+Recessive Count 63814.0 (6%)
+Heterozygous Count 376355.0 (37%)
+Number of Dominant Alleles 1496017.0 (74%)
+Number of Recessive Alleles 503983.0 (25%)
+=========================
+Starting Trial 29 with p Percentage at 74.79084991455078
+Natural Selection Factor is 0.01
+Trial 29 Finished (1000000.0 total)
+Dominant Count 559315.0 (55%)
+Recessive Count 63818.0 (6%)
+Heterozygous Count 376867.0 (37%)
+Number of Dominant Alleles 1495497.0 (74%)
+Number of Recessive Alleles 504503.0 (25%)
+=========================
+Starting Trial 30 with p Percentage at 74.76484893798828
+Natural Selection Factor is 0.01
+Trial 30 Finished (1000000.0 total)
+Dominant Count 557878.0 (55%)
+Recessive Count 64209.0 (6%)
+Heterozygous Count 377913.0 (37%)
+Number of Dominant Alleles 1493669.0 (74%)
+Number of Recessive Alleles 506331.0 (25%)
+=========================
+Starting Trial 31 with p Percentage at 74.6734487915039
+Natural Selection Factor is 0.01
+Trial 31 Finished (1000000.0 total)
+Dominant Count 556618.0 (55%)
+Recessive Count 64583.0 (6%)
+Heterozygous Count 378799.0 (37%)
+Number of Dominant Alleles 1492035.0 (74%)
+Number of Recessive Alleles 507965.0 (25%)
+=========================
+Starting Trial 32 with p Percentage at 74.59175323486328
+Natural Selection Factor is 0.01
+Trial 32 Finished (1000000.0 total)
+Dominant Count 556878.0 (55%)
+Recessive Count 64445.0 (6%)
+Heterozygous Count 378677.0 (37%)
+Number of Dominant Alleles 1492433.0 (74%)
+Number of Recessive Alleles 507567.0 (25%)
+=========================
+Starting Trial 33 with p Percentage at 74.61165069580078
+Natural Selection Factor is 0.01
+Trial 33 Finished (1000000.0 total)
+Dominant Count 555915.0 (55%)
+Recessive Count 64668.0 (6%)
+Heterozygous Count 379417.0 (37%)
+Number of Dominant Alleles 1491247.0 (74%)
+Number of Recessive Alleles 508753.0 (25%)
+=========================
+Starting Trial 34 with p Percentage at 74.5523550415039
+Natural Selection Factor is 0.01
+Trial 34 Finished (1000000.0 total)
+Dominant Count 555808.0 (55%)
+Recessive Count 64847.0 (6%)
+Heterozygous Count 379345.0 (37%)
+Number of Dominant Alleles 1490961.0 (74%)
+Number of Recessive Alleles 509039.0 (25%)
+=========================
+Starting Trial 35 with p Percentage at 74.53804992675781
+Natural Selection Factor is 0.01
+Trial 35 Finished (1000000.0 total)
+Dominant Count 555323.0 (55%)
+Recessive Count 64697.0 (6%)
+Heterozygous Count 379980.0 (37%)
+Number of Dominant Alleles 1490626.0 (74%)
+Number of Recessive Alleles 509374.0 (25%)
+=========================
+Starting Trial 36 with p Percentage at 74.52129577636718
+Natural Selection Factor is 0.01
+Trial 36 Finished (1000000.0 total)
+Dominant Count 556228.0 (55%)
+Recessive Count 64753.0 (6%)
+Heterozygous Count 379019.0 (37%)
+Number of Dominant Alleles 1491475.0 (74%)
+Number of Recessive Alleles 508525.0 (25%)
+=========================
+Starting Trial 37 with p Percentage at 74.56374572753906
+Natural Selection Factor is 0.01
